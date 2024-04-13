@@ -1,2 +1,3 @@
 # MPPT based three phase inverter fed by PV connected to grid
  Three phase inverter will transfer maximum active power by controliing  phase with the help of controllers
+Photovoltaic (PV) system aimed at generating solar power from PV panels, which inherently produce DC power. In this project, I have employed a 3-phase AC inverter to convert the DC power into 3-phase AC power, suitable for integration into the grid. Furthermore, I have developed a controller, inspired by research papers, to regulate the active power injection into the grid. This controller endeavors to minimize the phase difference between the generated voltage and current from the 3-phase inverter.
